@@ -28,9 +28,11 @@ Alternatively, you can directly access the live version of the project hosted on
 ## Usage
 
 - To add a new task, enter the task description in the input field and press the "Add" button.
-- To mark a task as completed, click the checkbox next to the task.
-- To edit a task description, click the "Edit" button and make the necessary changes.
-- To delete a task, click the "Delete" button.
+- Left-click on a task to toggle its completion status.
+- Right-click on a task to delete it from the list.
+- To edit a task description, double-click on the task and make the necessary changes.
+
+
 
 ## Contribution
 
