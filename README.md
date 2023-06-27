@@ -38,6 +38,3 @@ Alternatively, you can directly access the live version of the project hosted on
 
 Contributions to the project are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the project repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
